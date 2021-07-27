@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33614529095",
+    "project_id": "myfirebase-72281",
+    "storage_bucket": "myfirebase-72281.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33614529095:android:79f98c587c44cb3edae762",
+        "android_client_info": {
+          "package_name": "com.example.tarea5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33614529095-rrac80qqdmeh5gjn99nio7cojcgstk3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhPBLO7rTxVwz8A6WIoDPquPGqvBPsX3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33614529095-rrac80qqdmeh5gjn99nio7cojcgstk3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
